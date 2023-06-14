@@ -1,0 +1,12 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+}
+.footer .footer-text {
+  font-weight: 300;
+  margin: 0 auto;
+}
+.footer .footer-text a {
+  color: black;
+  text-decoration: none;
+}
